@@ -18,3 +18,7 @@ Using GitHub as my cloud helps me:
 - Stay organized and focused
 
 Feel free to look around — but this is mostly for my personal use! 😄
+
+## 📄 License
+
+This repository is licensed under the [MIT License](LICENSE).
